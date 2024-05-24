@@ -14,4 +14,13 @@ Implement Hub and Spoke topology where Hub contains the centralized components l
 
 
 ## Week 1 Assignment - The OSI Model
-DIscuss about OSI Model
+### Discuss about OSI Model:
+The Seven Layers of the OSI Model.
+
+1. Physical Layer
+2. Data Link Layer
+3. Network Layer
+4. Transport Layer
+5. Session Layer
+6. Presentation Layer
+7. Application Layer
