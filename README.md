@@ -24,3 +24,4 @@ The Seven Layers of the OSI Model.
 5. Session Layer
 6. Presentation Layer
 7. Application Layer
+![alt text](http://url/to/img.png)
