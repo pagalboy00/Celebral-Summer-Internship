@@ -12,6 +12,7 @@ Implement Hub and Spoke topology where Hub contains the centralized components l
 7. SSL Offloading will be implemented on top of Application Gateway.
 8. Set up multiple listeners to route traffic to the backend with their respective set of configurations.
 
+Create a Static Website on Azure URL : https://spokestorage123.z13.web.core.windows.net/
 
 ## Week 1 Assignment - The OSI Model
 ### Discuss about OSI Model:
