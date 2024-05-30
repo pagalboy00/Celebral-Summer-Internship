@@ -27,3 +27,7 @@ The Seven Layers of the OSI Model.
 7. Application Layer
 ![OSI Model layer](https://github.com/pagalboy00/Celebral-Summer-Internship/assets/124763735/0a56f6fa-6d2b-45dd-9c9c-6d2934187a0e)
 
+## Week 2 Assignment - IP Addressing
+IP (Internet Protocol) addressing is a fundamental aspect of networking and is crucial for the identification and communication between devices on a network. 
+![image](https://github.com/pagalboy00/Celebral-Summer-Internship/assets/124763735/df1c4247-1198-4bf6-9156-c0b18efc3970)
+
