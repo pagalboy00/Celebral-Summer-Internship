@@ -1,6 +1,6 @@
 # Celebral-Summer-Internship
 
-## Poject 1 - Secure Hosting of Web App via Azure Application Gateway
+## Project 1 - Secure Hosting of Web App via Azure Application Gateway
 ### Senerio:
 Implement Hub and Spoke topology where Hub contains the centralized components like Azure Firewall, Application Gateway, DNS Forwarding VM, Azure Bastion etc. and one spoke has Web App and another spoke has a Storage account with no public access.
 1. Establishes a secure connection between the on-premises data centre and the hub VNet and Spoke VNets.
